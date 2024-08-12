@@ -1,4 +1,4 @@
-# byteCaptcha/noise.py
+# byteCaptcha3/noise.py
 
 from PIL import ImageDraw
 import random
