@@ -1,4 +1,4 @@
-# byteCaptcha/captcha.py
+# byteCaptcha3/captcha.py
 
 import random
 import string
@@ -6,7 +6,7 @@ from PIL import Image, ImageDraw, ImageFont, ImageFilter
 from .noise import add_noise
 from .utils import random_color
 
-class CaptchaGenerator:
+class CaptchaGen:
     def __init__(self, width=200, height=70, font_size=36, font_path="fonts/default.ttf"):
         self.width = width
         self.height = height
