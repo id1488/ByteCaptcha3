@@ -1,7 +1,7 @@
 # tests/test_captcha.py
 
 import unittest
-from byteCaptcha.captcha import CaptchaGenerator
+from byteCaptcha3.captcha import CaptchaGen
 
 class TestCaptcha(unittest.TestCase):
     def test_generate_captcha(self):
