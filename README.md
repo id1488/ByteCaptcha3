@@ -5,4 +5,4 @@
 ## Установка
 
 ```bash
-pip install byteCaptcha
+pip install byteCaptcha3
