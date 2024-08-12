@@ -1,4 +1,4 @@
-# byteCaptcha/utils.py
+# byteCaptcha3/utils.py
 
 import random
 
